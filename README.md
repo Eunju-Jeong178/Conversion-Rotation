@@ -1,5 +1,5 @@
 # Conversion-Rotation
 
-## 1. Convert quaternion to euler angles
+## 1. Convert quaternion to rotation
 
 ## 2. Convert euler angle to ratation 
